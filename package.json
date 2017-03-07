@@ -2,10 +2,10 @@
   "_args": [
     [
       {
-        "raw": "react-native-chooser@^1.0.1",
+        "raw": "seven-chooser@^1.0.0",
         "scope": null,
-        "escapedName": "react-native-chooser",
-        "name": "react-native-chooser",
+        "escapedName": "seven-chooser",
+        "name": "seven-chooser",
         "rawSpec": "^1.0.1",
         "spec": ">=1.0.1 <2.0.0",
         "type": "range"
@@ -13,14 +13,14 @@
       "D:\\Test-Mobile"
     ]
   ],
-  "_from": "react-native-chooser@>=1.0.1 <2.0.0",
-  "_id": "react-native-chooser@1.0.1",
+  "_from": "seven-chooser@>=1.0.1 <2.0.0",
+  "_id": "seven-chooser@1.0.1",
   "_inCache": true,
-  "_location": "/react-native-chooser",
+  "_location": "/seven-chooser",
   "_nodeVersion": "4.4.4",
   "_npmOperationalInternal": {
     "host": "packages-18-east.internal.npmjs.com",
-    "tmp": "tmp/react-native-chooser-1.0.1.tgz_1480600853117_0.9710491730365902"
+    "tmp": "tmp/seven-chooser-1.0.1.tgz_1480600853117_0.9710491730365902"
   },
   "_npmUser": {
     "name": "js-media",
@@ -29,10 +29,10 @@
   "_npmVersion": "3.10.9",
   "_phantomChildren": {},
   "_requested": {
-    "raw": "react-native-chooser@^1.0.1",
+    "raw": "seven-chooser@^1.0.0",
     "scope": null,
-    "escapedName": "react-native-chooser",
-    "name": "react-native-chooser",
+    "escapedName": "seven-chooser",
+    "name": "seven-chooser",
     "rawSpec": "^1.0.1",
     "spec": ">=1.0.1 <2.0.0",
     "type": "range"
@@ -40,16 +40,16 @@
   "_requiredBy": [
     "/"
   ],
-  "_resolved": "https://registry.npmjs.org/react-native-chooser/-/react-native-chooser-1.0.1.tgz",
+  "_resolved": "https://registry.npmjs.org/seven-chooser/-/seven-chooser-1.0.1.tgz",
   "_shasum": "c5818495fb628b23a9bfb3e9b3b8ffb2c85b3950",
   "_shrinkwrap": null,
-  "_spec": "react-native-chooser@^1.0.1",
+  "_spec": "seven-chooser@^1.0.0",
   "_where": "D:\\Test-Mobile",
   "author": {
     "name": "Azhar"
   },
   "bugs": {
-    "url": "https://github.com/gs-akhan/react-native-chooser/issues"
+    "url": "https://github.com/s2zaman/seven-chooser/issues"
   },
   "dependencies": {},
   "description": "Simple Cross platform SELECT tag for React-Native",
@@ -57,10 +57,10 @@
   "directories": {},
   "dist": {
     "shasum": "c5818495fb628b23a9bfb3e9b3b8ffb2c85b3950",
-    "tarball": "https://registry.npmjs.org/react-native-chooser/-/react-native-chooser-1.0.1.tgz"
+    "tarball": "https://registry.npmjs.org/seven-chooser/-/seven-chooser-1.0.1.tgz"
   },
   "gitHead": "26a38d2c1361a3236ad2cd2c06eff36647fc2201",
-  "homepage": "https://github.com/gs-akhan/react-native-chooser#readme",
+  "homepage": "https://github.com/s2zaman/seven-chooser#readme",
   "keywords": [
     "react-native",
     "chooser",
@@ -75,12 +75,12 @@
       "email": "azhar.mw@gmail.com"
     }
   ],
-  "name": "react-native-chooser",
+  "name": "seven-chooser",
   "optionalDependencies": {},
   "readme": "ERROR: No README data found!",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/gs-akhan/react-native-chooser.git"
+    "url": "git+https://github.com/s2zaman/seven-chooser.git"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
