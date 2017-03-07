@@ -11,3 +11,9 @@ Seven Chooser customized for self-use.
     "seven-chooser": "git://github.com/s2zaman/seven-chooser.git#master"
     }
 ```
+or
+```
+"dependencies": {
+    "seven-chooser": "git+https://git@github.com/s2zaman/seven-chooser.git#master"
+    }
+```
