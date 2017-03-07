@@ -10,7 +10,7 @@
         "spec": ">=1.0.1 <2.0.0",
         "type": "range"
       },
-      "D:\\Seven Technology Projects\\AHNR-Mobile"
+      "D:\\Test-Mobile"
     ]
   ],
   "_from": "react-native-chooser@>=1.0.1 <2.0.0",
@@ -44,7 +44,7 @@
   "_shasum": "c5818495fb628b23a9bfb3e9b3b8ffb2c85b3950",
   "_shrinkwrap": null,
   "_spec": "react-native-chooser@^1.0.1",
-  "_where": "D:\\Seven Technology Projects\\AHNR-Mobile",
+  "_where": "D:\\Test-Mobile",
   "author": {
     "name": "Azhar"
   },
