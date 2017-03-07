@@ -3,9 +3,11 @@ Simple DropDown menu for React Native App! Your Select Tag for React Native. Ful
 
 ## Introduction
 
-React Native Chooser is simple, customizable and easy to use dropdown in React Native. It has been tested on both Android and IOS and works like a charm. 
+Seven Chooser customized for self-use. 
 
 ## Installation
 ```
-npm i seven-chooser --save
+"dependencies": {
+    "seven-chooser": "git://github.com/s2zaman/seven-chooser.git#master"
+    }
 ```
